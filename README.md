@@ -1,4 +1,4 @@
-# Project: Rare Event Computer Vision Analytics Platform
+# Rare Event Computer Vision Analytics Platform
 
 ## Overview
 
@@ -6,7 +6,7 @@ This research project focuses on **Computer Vision–driven analytics for detect
 
 The platform combines **synthetic data generation, deep learning–based vision models, and downstream analytics dashboards** to study events that are difficult to capture in real life due to rarity, cost, or safety constraints.
 
----
+
 
 ## Research Objectives
 
@@ -16,7 +16,7 @@ The platform combines **synthetic data generation, deep learning–based vision 
 * Translate vision outputs into **actionable analytics and KPIs**
 * Enable reproducible experiments and benchmarking
 
----
+
 
 ## System Architecture
 
@@ -29,7 +29,7 @@ The platform combines **synthetic data generation, deep learning–based vision 
 5. Analytics & Metrics Engine
 6. Visualization & Reporting
 
----
+
 
 ## Core Components
 
@@ -41,7 +41,7 @@ The platform combines **synthetic data generation, deep learning–based vision 
 
 **Output**: Annotated datasets with ground truth labels
 
----
+
 
 ### 2. Computer Vision Models
 
@@ -55,7 +55,7 @@ The platform combines **synthetic data generation, deep learning–based vision 
 * Event-level false positives
 * Time-to-detection
 
----
+
 
 ### 3. Analytics Layer
 
@@ -70,7 +70,7 @@ The platform combines **synthetic data generation, deep learning–based vision 
 * Scikit-learn
 * Statistical modeling
 
----
+
 
 ### 4. Visualization & Dashboards
 
@@ -84,7 +84,7 @@ Tools:
 * Streamlit / Dash
 * Plotly
 
----
+
 
 ## Research Questions
 
@@ -93,7 +93,7 @@ Tools:
 * How stable are models under domain shift?
 * Can analytics-derived signals outperform raw CV predictions?
 
----
+
 
 ## Datasets
 
@@ -101,7 +101,7 @@ Tools:
 * Synthetic datasets generated in-house
 * Custom benchmark splits for rare-event evaluation
 
----
+
 
 ## Reproducibility
 
@@ -110,7 +110,7 @@ Tools:
 * Experiment configs (YAML)
 * Dockerized environment
 
----
+
 
 ## Repository Structure
 
@@ -134,7 +134,7 @@ cv-rare-event-analytics/
 └── README.md
 ```
 
----
+
 
 ## Deliverables
 
@@ -144,7 +144,7 @@ cv-rare-event-analytics/
 * Publication-ready figures
 * Enterprise-ready architecture
 
----
+
 
 ## Potential Applications
 
@@ -154,14 +154,20 @@ cv-rare-event-analytics/
 * Smart city operations
 * Executive decision-support systems
 
----
+
 
 ## License
 
 Apache 2.0
 
----
+
 
 ## Author
 
-Atsu Vovor
+Atsu Vovor  
+Consultant, Data & Analytics    
+✉️ atsu.vovor@bell.net    
+🔗 <a href="https://www.linkedin.com/in/atsu-vovor-mmai-9188326/" target="_blank">LinkedIn</a> | <a href="https://atsuvovor.github.io/projects_portfolio.github.io/" target="_blank">GitHub</a> | <a href="https://public.tableau.com/app/profile/atsu.vovor8645/vizzes" target="_blank">Tableau Portfolio</a>    
+📍 Mississauga ON      
+
+### Thank you for visiting!🙏
