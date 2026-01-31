@@ -1,4 +1,10 @@
-# Rare Event Computer Vision Analytics Platform
+# Rare Event Computer Vision Analytics Platform  
+
+<p align="center">
+  <img src="images/RareEventComputerVisionAnalyticsPlatform.png" 
+       alt="Centered Image" 
+       style="width: 70%; height: auto;">
+</p>
 
 ## Overview
 
